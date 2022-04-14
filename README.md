@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Daniela Molina</h1>
 <h3 align="center">I am a delighted economist with a passion for the study of economic indicators of telecommunications and how they affect commonly excluded people.</h3>
